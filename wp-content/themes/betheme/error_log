@@ -1,0 +1,8 @@
+[17-Apr-2019 09:12:12 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mfn_opts_get() in /home/peppe2gb/public_html/makerfestvadodara.com/wp-content/themes/betheme/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/peppe2gb/public_html/makerfestvadodara.com/wp-content/themes/betheme/404.php on line 10
+[05-May-2019 07:18:47 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mfn_opts_get() in /home/peppe2gb/public_html/makerfestvadodara.com/wp-content/themes/betheme/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/peppe2gb/public_html/makerfestvadodara.com/wp-content/themes/betheme/404.php on line 10

@@ -1,0 +1,4 @@
+[06-May-2019 23:58:30 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/peppe2gb/public_html/makerfestvadodara.com/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/peppe2gb/public_html/makerfestvadodara.com/wp-content/themes/twentysixteen/404.php on line 10

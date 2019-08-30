@@ -1,0 +1,4 @@
+[25-Apr-2019 14:58:51 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/peppe2gb/public_html/makerfestvadodara.com/wp-includes/locale.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/peppe2gb/public_html/makerfestvadodara.com/wp-includes/locale.php on line 10

@@ -1,0 +1,181 @@
+********************************************************************************
+* DUPLICATOR-LITE: INSTALL-LOG
+* VERSION: 1.2.52
+* STEP-1 START @ 05:39:42
+* NOTICE: Do NOT post this data to public sites or forums
+********************************************************************************
+PHP VERSION:	5.4.45 | SAPI: litespeed
+PHP TIME LIMIT:	[0] time limit restriction disabled
+PHP MEMORY:	2048M | SUHOSIN: disabled
+SERVER:		Apache/2.4.33 (cPanel) OpenSSL/1.0.2o mod_bwlimited/1.4 Phusion_Passenger/5.1.12
+DOC ROOT:	/home/peppe2gb/public_html/makerfestvadodara.com
+DOC ROOT 755:	true
+LOG FILE 644:	true
+REQUEST URL:	http://makerfestvadodara.com/installer.php
+SAFE MODE :	0
+--------------------------------------
+ARCHIVE EXTRACTION
+--------------------------------------
+NAME:	20181210_makerfestvadodara2019_2ba0464ad23b14a04450_20181210172357_archive.zip
+SIZE:	77.6MB
+ZIP:	Enabled (ZipArchive Support)
+
+>>> START EXTRACTION:
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 8683
+    [filename] => /home/peppe2gb/public_html/makerfestvadodara.com/20181210_makerfestvadodara2019_2ba0464ad23b14a04450_20181210172357_archive.zip
+    [comment] => 
+)
+File timestamp is 'Current' mode: 2018-12-10 17:40:01
+<<< EXTRACTION COMPLETE: true
+
+WEB SERVER CONFIGURATION FILE RESET:
+- Backup of .htaccess/web.config made to *.181210174001.orig
+- Reset of .htaccess/web.config files
+
+STEP-1 COMPLETE @ 05:40:01 - RUNTIME: 19.0912 sec.
+
+INSTALLER ERROR:
+The database "peppe2gb_wp673" has "21" tables.  The Duplicator only works with an EMPTY database.  Enable the action "Connect and Remove All Data" radio button to remove all tables and or create a new database. Some hosting providers do not allow table removal from scripts.  In this case you will need to login to your hosting providers control panel and remove the tables manually.  Please contact your hosting provider for further details.  Always backup all your data before proceeding!
+
+INSTALLER ERROR:
+The database "peppe2gb_wp673" has "21" tables.  The Duplicator only works with an EMPTY database.  Enable the action "Connect and Remove All Data" radio button to remove all tables and or create a new database. Some hosting providers do not allow table removal from scripts.  In this case you will need to login to your hosting providers control panel and remove the tables manually.  Please contact your hosting provider for further details.  Always backup all your data before proceeding!
+
+
+********************************************************************************
+* DUPLICATOR-LITE: INSTALL-LOG
+* STEP-2 START @ 05:50:57
+* NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+--------------------------------------
+DATABASE ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 5.5.61 -- Build Server: 5.5.61
+FILE SIZE:	dup-database__2ba0464-10172357.sql (1.57MB) - dup-installer-data__2ba0464-10172357.sql (1.57MB)
+TIMEOUT:	5000
+MAXPACK:	67108864
+SQLMODE:	NOT_SET
+NEW SQL FILE:	[/home/peppe2gb/public_html/makerfestvadodara.com/dup-installer-data__2ba0464-10172357.sql]
+COLLATE RESET:	On
+
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+ERRORS FOUND:	0
+TABLES DROPPED:	
+QUERIES RAN:	201
+
+wpg8_commentmeta: (0)
+wpg8_comments: (8)
+wpg8_duplicator_packages: (1)
+wpg8_layerslider: (1)
+wpg8_layerslider_revisions: (0)
+wpg8_links: (0)
+wpg8_options: (256)
+wpg8_postmeta: (710)
+wpg8_posts: (135)
+wpg8_revslider_css: (109)
+wpg8_revslider_layer_animations: (0)
+wpg8_revslider_navigations: (0)
+wpg8_revslider_sliders: (1)
+wpg8_revslider_slides: (2)
+wpg8_revslider_static_slides: (0)
+wpg8_term_relationships: (76)
+wpg8_term_taxonomy: (21)
+wpg8_termmeta: (0)
+wpg8_terms: (21)
+wpg8_usermeta: (30)
+wpg8_users: (1)
+
+Removed '36' cache/transient rows
+
+CREATE/INSTALL RUNTIME: 0.2443 sec.
+STEP-2 COMPLETE @ 05:50:57 - RUNTIME: 0.2558 sec.
+
+
+********************************************************************************
+* DUPLICATOR-LITE: INSTALL-LOG
+* STEP-3 START @ 05:51:42
+* NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	latin1
+CHARSET CLIENT:	utf8
+--------------------------------------
+SERIALIZER ENGINE
+[*] scan every column
+[~] scan only text columns
+[^] no searchable columns
+--------------------------------------
+wpg8_commentmeta^ (0)
+wpg8_comments~ (8)
+wpg8_duplicator_packages^ (0)
+wpg8_layerslider~ (1)
+wpg8_layerslider_revisions^ (0)
+wpg8_links^ (0)
+wpg8_options~ (218)
+wpg8_postmeta~ (710)
+wpg8_posts~ (135)
+wpg8_revslider_css~ (109)
+wpg8_revslider_layer_animations^ (0)
+wpg8_revslider_navigations^ (0)
+wpg8_revslider_sliders~ (1)
+wpg8_revslider_slides~ (2)
+wpg8_revslider_static_slides^ (0)
+wpg8_term_relationships~ (76)
+wpg8_term_taxonomy~ (21)
+wpg8_termmeta^ (0)
+wpg8_terms~ (21)
+wpg8_usermeta~ (30)
+wpg8_users~ (1)
+--------------------------------------
+Search1:	'/home/peppe2gb/public_html/letsupgrade.tech' 
+Change1:	'/home/peppe2gb/public_html/makerfestvadodara.com' 
+Search2:	'\/home\/peppe2gb\/public_html\/letsupgrade.tech' 
+Change2:	'\/home\/peppe2gb\/public_html\/makerfestvadodara.com' 
+Search3:	'%2Fhome%2Fpeppe2gb%2Fpublic_html%2Fletsupgrade.tech%2F' 
+Change3:	'%2Fhome%2Fpeppe2gb%2Fpublic_html%2Fmakerfestvadodara.com%2F' 
+Search4:	'\home\peppe2gb\public_html\letsupgrade.tech' 
+Change4:	'/home/peppe2gb/public_html/makerfestvadodara.com' 
+Search5:	'//letsupgrade.tech' 
+Change5:	'//makerfestvadodara.com' 
+Search6:	'\/\/letsupgrade.tech' 
+Change6:	'\/\/makerfestvadodara.com' 
+Search7:	'%2F%2Fletsupgrade.tech' 
+Change7:	'%2F%2Fmakerfestvadodara.com' 
+SCANNED:	Tables:21 	|	 Rows:1333 	|	 Cells:8189 
+UPDATED:	Tables:1 	|	 Rows:132 	|	 Cells:135 
+ERRORS:		0 
+RUNTIME:	0.338200 sec
+
+====================================
+CONFIGURATION FILE UPDATES:
+====================================
+
+UPDATED WP-CONFIG: /wp-config.php' (if present)
+
+WEB SERVER CONFIGURATION FILE BASIC SETUP:
+- Preparing .htaccess file with basic setup.
+Basic .htaccess file edit complete.  If using IIS web.config this process will need to be done manually.
+
+====================================
+GENERAL UPDATES & CLEANUP:
+====================================
+
+NEW WP-ADMIN USER: New username 'viral' was created successfully 
+ 
+- Created directory wp-snapshots
+- Created file wp-snapshots/index.php
+
+====================================
+NOTICES
+====================================
+
+No Notices Found
+
+
+STEP 3 COMPLETE @ 05:51:43 - RUNTIME: 0.5066 sec.
+
+
